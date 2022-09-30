@@ -22,4 +22,4 @@ Database Licence from Open Data Commons, found in LICENCE file.
 The licence of the original dataset, modified by me for the purpose of
 adapting it to PostgreSQL can be found in the `openbeerdb_csv` directory.
 
-It can also be read online on (https://opendatacommons.org/licenses/dbcl/1-0/)[https://opendatacommons.org/licenses/dbcl/1-0/]
+It can also be read online on [https://opendatacommons.org/licenses/dbcl/1-0/](https://opendatacommons.org/licenses/dbcl/1-0/)
