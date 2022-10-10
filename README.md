@@ -1,5 +1,7 @@
 # pgOpenBeerDB - a PostgreSQL version of OpenBeerDB
 
+[![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
+
 pgOpenBeerDB is just a PostgreSQL version of the OpenBeerDB that one can find
 at OpenBeerDB.
 
